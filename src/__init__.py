@@ -2,7 +2,7 @@ from pkg_resources import get_distribution
 import codecs
 import json
 import os
-import version
+import rasa_nlu.version
 
 __version__ = version.__version__
 
